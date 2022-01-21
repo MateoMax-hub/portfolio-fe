@@ -1,0 +1,4 @@
+*.pbxproj -text
+*.js text eol=lf
+*.scss eol=lf
+*.css eol=lf
